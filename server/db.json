@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "code": "CODE 3",
+      "name": "PRODUCT 3"
+    },
+    {
+      "id": 4,
+      "code": "CODE 4",
+      "name": "PRODUCT 4"
+    },
+    {
+      "code": "CODE 6",
+      "name": "PRODUCT 7",
+      "id": 6
+    },
+    {
+      "code": "CODE 8",
+      "name": "PRODUCT 8",
+      "id": 7
+    },
+    {
+      "code": "CODE 1",
+      "name": "PRODUCT 1",
+      "id": 8
+    },
+    {
+      "code": "CODE 2",
+      "name": "PRODUCT 2",
+      "id": 9
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "number": "number 1",
+      "quotation_number": "quotation_number 1",
+      "guide_number": "guide_number 1",
+      "purchase_order_number": "purchase_order_number 1",
+      "way_to_pay": "way_to_pay 1",
+      "total": "total 1",
+      "state": "state 1"
+    }
+  ],
+  "invoice_details": [
+    {
+      "id": 1,
+      "description": "description1",
+      "discount": "discount1",
+      "quantity": "quantity1",
+      "price": "price1",
+      "rode": "rode1",
+      "invoiceId": 1
+    }
+  ]
+}
